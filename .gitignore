@@ -1,0 +1,17 @@
+*.pyc
+*.pyo
+*.orig
+*.log
+*.vscode*
+.idea/*
+uploads/*
+static/*
+*.settings/
+*~
+.coverage
+.project
+.DS_Store
+.idea
+*v_env*
+**migrations/*
+!**migrations/__init__.py
